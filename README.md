@@ -27,7 +27,7 @@
 ...
 
 ---
- Contact: ghouddanmed@gmail.com | [LinkedIn](www.linkedin.com/in/ghouddanmohammed)
+ Contact: ghouddanmed@gmail.com | [LinkedIn](https://linkedin.com/in/ghouddanmohammed)
 
 <!--
 **ghouddan/ghouddan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
