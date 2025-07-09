@@ -24,11 +24,11 @@
 ---
 
 ### Projects Coming Soon
-...
+- SOC Log Analyzer (v1)
 
 ---
  Contact: ghouddanmed@gmail.com | [LinkedIn](https://linkedin.com/in/ghouddanmohammed)
-
+- 
 <!--
 **ghouddan/ghouddan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
