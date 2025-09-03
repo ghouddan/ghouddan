@@ -26,6 +26,7 @@
 ### Projects Coming Soon
 - SOC Log Analyzer (v1)
 - SOC-PCAP-Analyzer
+- Offensive Toolkit
 
 ---
  Contact: ghouddanmed@gmail.com | [LinkedIn](https://linkedin.com/in/ghouddanmohammed)
