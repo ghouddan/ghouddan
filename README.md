@@ -1,4 +1,4 @@
-## 👋 Hello! I'm an Aspiring SOC Analyst with a Software Engineering Background
+## 👋 Hello! I'm a Cybersecurity Enthusiast with a Software Engineering Background
 
  Graduated in Software Engineering  
  Transitioning into Cybersecurity — completed the SOC Analyst path on TryHackMe  
