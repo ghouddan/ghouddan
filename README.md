@@ -27,6 +27,7 @@
 - SOC Log Analyzer (v1)
 - SOC-PCAP-Analyzer
 - Mini Offensive Toolkit
+- SOC Home Lab
 
 ---
  Contact: ghouddanmed@gmail.com | [LinkedIn](https://linkedin.com/in/ghouddanmohammed)
