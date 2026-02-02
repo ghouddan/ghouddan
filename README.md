@@ -121,16 +121,16 @@ Digital Forensics:
 <td width="50%">
 
 #### **SOC Log Analyzer (v1)**
-> Automated log parsing and threat detection tool
+> A lightweight simple Python tool designed to help in detecting common security events from system logs.
 
-**Tech Stack:** Python, FastAPI, PostgreSQL  
+**Tech Stack:** Python, FastAPI  
 **Features:**
 - Real-time log ingestion
 - Threat pattern matching
 - Alert generation
 - Dashboard visualization
 
-[View Repository](#) | [Read Writeup](#)
+[View Repository](https://github.com/ghouddan/SOC-Log-Analyzer-v1) | [Read Writeup](https://github.com/ghouddan/SOC-Log-Analyzer-v1/blob/master/README.md)
 
 </td>
 <td width="50%">
@@ -138,14 +138,28 @@ Digital Forensics:
 #### **SOC-PCAP-Analyzer**
 > Network traffic analysis and anomaly detection
 
-**Tech Stack:** Python, Wireshark, Zeek  
+**Tech Stack:** Python, Wireshark, Zeek, Pshark 
 **Features:**
 - PCAP file parsing
 - Protocol analysis
 - IOC extraction
 - Report generation
 
-[View Repository](#) | [Read Writeup](#)
+[View Repository](https://github.com/ghouddan/SOC-PCAP-Analyzer) | [Read Writeup](https://github.com/ghouddan/SOC-PCAP-Analyzer/blob/master/README.md)
+
+</td>
+<td width="50%">
+
+#### **Mini-Offensive-Toolkit (Recon phase)**
+> Reconnaissance & enumeration scripts 
+
+**Tech Stack:** Python
+**Features:**
+- Port scanner
+- Subdomain enumerator
+- Directory brute-forcer
+
+[View Repository](https://github.com/ghouddan/Mini-Offensive-Toolkit) | [Read Writeup](https://github.com/ghouddan/Mini-Offensive-Toolkit/README.md)
 
 </td>
 </tr>
@@ -157,27 +171,8 @@ Digital Forensics:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Mini Offensive Toolkit** | Reconnaissance & enumeration scripts | In Development |
-| **Active Directory Home Lab** | Windows AD environment for practicing attacks & defense | Planning |
+| **Active Directory Home Lab** | Windows AD environment for practicing attacks & defense | Ongoing |
 | **Threat Hunting Automation** | Scripts for automated IOC hunting | Ideation |
-
-</div>
-
----
-
-## **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=C77DFF&bg_color=0D1117&title_color=E0AAFF&icon_color=C77DFF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&border_color=C77DFF&bg_color=0D1117&title_color=E0AAFF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghouddan&theme=midnight-purple&border=C77DFF&background=0D1117&ring=E0AAFF&fire=C77DFF&currStreakLabel=C77DFF)
 
 </div>
 
@@ -223,7 +218,6 @@ Digital Forensics:
 
 ### *"The best defense is a well-informed offense"*
 
-![Visitor Count](https://profile-counter.glitch.me/ghouddan/count.svg)
 
 ```
  ____  _            _____                       ____  _            _____                       
