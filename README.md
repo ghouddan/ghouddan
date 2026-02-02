@@ -196,7 +196,17 @@ Digital Forensics:
 
 <div align="center">
 
-*Coming Soon: Detailed writeups on threat detection, log analysis, and incident response scenarios*
+### TryHackMe WriteUps
+
+| Challenge | Tags | Difficulty |
+|-----------|------|------------|
+| [Billing](https://github.com/ghouddan/TryHackMe-Writeup/blob/master/Billing.md) | Red Team, Linux | Easy |
+| [Brains](https://github.com/ghouddan/TryHackMe-Writeup/blob/master/Brains.md) | Purple Team, Web | Easy |
+| [Cheese CTF](https://github.com/ghouddan/TryHackMe-Writeup/blob/master/Cheese%20CTF.md) | Red Team, Linux | Easy |
+| [ColddBox Easy](https://github.com/ghouddan/TryHackMe-Writeup/blob/master/ColddBox%20Easy.md) | Red Team, Linux, Web | Easy |
+| [Dreaming](https://github.com/ghouddan/TryHackMe-Writeup/blob/master/Dreaming.md) | Red Team, Linux, Web | Easy |
+
+[View All Writeups →](https://github.com/ghouddan/TryHackMe-Writeup)
 
 </div>
 
