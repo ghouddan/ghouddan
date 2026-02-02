@@ -158,8 +158,9 @@ Digital Forensics:
 - Port scanner
 - Subdomain enumerator
 - Directory brute-forcer
+      
 
-[View Repository](https://github.com/ghouddan/Mini-Offensive-Toolkit) | [Read Writeup](https://github.com/ghouddan/Mini-Offensive-Toolkit/README.md)
+[View Repository](https://github.com/ghouddan/Mini-Offensive-Toolkit) | [Read Writeup](https://github.com/ghouddan/Mini-Offensive-Toolkit/blob/master/README.md)
 
 </td>
 </tr>
