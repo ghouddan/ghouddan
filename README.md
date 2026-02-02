@@ -118,7 +118,7 @@ Digital Forensics:
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### **SOC Log Analyzer (v1)**
 > A lightweight simple Python tool designed to help in detecting common security events from system logs.
@@ -133,7 +133,7 @@ Digital Forensics:
 [View Repository](https://github.com/ghouddan/SOC-Log-Analyzer-v1) | [Read Writeup](https://github.com/ghouddan/SOC-Log-Analyzer-v1/blob/master/README.md)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### **SOC-PCAP-Analyzer**
 > Network traffic analysis and anomaly detection
@@ -148,7 +148,7 @@ Digital Forensics:
 [View Repository](https://github.com/ghouddan/SOC-PCAP-Analyzer) | [Read Writeup](https://github.com/ghouddan/SOC-PCAP-Analyzer/blob/master/README.md)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### **Mini-Offensive-Toolkit (Recon phase)**
 > Reconnaissance & enumeration scripts 
