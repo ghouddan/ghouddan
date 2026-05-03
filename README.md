@@ -27,8 +27,9 @@ I specialize in **building applications**, **automating security tasks**, and **
 
 ---
 
-## **Certifications**
-- **compTIA Security+**
+## **Certifications and Course**
+- **CompTIA Security+**
+- **TryHackme SOC Level 1** 
 
 
 ---
