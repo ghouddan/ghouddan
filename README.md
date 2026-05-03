@@ -27,35 +27,9 @@ I specialize in **building applications**, **automating security tasks**, and **
 
 ---
 
-## **What I'm Looking For**
+## **Certifications**
+- **compTIA Security+**
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### Job Opportunities
-SOC Analyst | Security Analyst
-Junior DFIR roles
-
-</td>
-<td width="33%" align="center">
-
-### Collaboration
-Open-source security tools
-Blue Team projects
-CTF teams
-
-</td>
-<td width="33%" align="center">
-
-### Sharing Knowledge
-Writeups & walkthroughs
-Log analysis case studies
-Tool demonstrations
-
-</td>
-</tr>
-</table>
 
 ---
 
